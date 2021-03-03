@@ -1,0 +1,50 @@
+C#:
+	OOP
+	Design and Structure
+	Principles/Pillars/Characteristics
+		Encapsulation
+			controlled access
+		Abstraction
+			Contract-driven
+		Inheritance
+			Functionality/Reusability
+
+	OOP Access Modifyiers
+		Internal
+			within same assembly
+		Public
+			All assembly
+		Private
+			accessable within same context
+		Protected
+			All assembly within the same tree
+	Modifiers
+		Static
+			Singular Instance
+			Initialized at app start
+			Can Change
+		Const
+			Singular
+			Initialized at code write
+			Cannot Change
+		readonly
+			Initialize at construction time
+			Singular
+			cannot change
+		virtual
+		abstract
+		sealed
+		new
+		partial
+
+	Lifecycle of C#
+		Code(C#) -> Compiler(C#) -> Assembly(MSIL) [.dll, .exe, or .svc]->
+		-> JIT -> CLR [BCL, CTS, VES] -> Compiler -> Machine Code -> CPU
+			MSIL = Microsoft Intermediate Language
+			CIL = Common Intermediate Language
+			CLI = Common Language Infrastructure
+			
+	Purpose of assembly language:
+		performance, portability, interoperability, and memory management
+
+Compilers convert high level languages to low-level languages

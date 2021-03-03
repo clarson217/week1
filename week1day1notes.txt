@@ -1,0 +1,51 @@
+adp	everything HR related (such as pay)
+	Where to get W2s
+revature connect
+fill in time sheet?
+
+paid 2 weeks later
+
+.NET
+	.NET is built on .net standard
+		the SDK
+	The SDK is built on...
+		.net framework and .net core
+		framework is windows only (only difference)
+		.NET core is about 90% of .NET framework
+		only part that isn't in CORE is windows-only strappings.
+	As of 2020, .NET Framework and .NET Core, are combined into one shell
+		.NET 5.0 (also cross-platform)
+	
+	3 main types of apps
+		Web
+		Mobile
+		Native (Desktop)
+	Our focus is Web
+
+	Languages supported:
+		C#, C, C++
+		F#, JS, TS
+		Py, VB, VB.NET, Java*
+	.NET Data:
+		SQL
+			MS SQL / TSQL
+			Oracle / OracleDB
+			IBM / DB2
+			SAP / Sybase
+			Postgres / PostgreSQL 
+		Non-SQL
+			document
+				MongoDB
+				RavenDB
+				CosmosDB
+				CouchDB
+			key:value
+			graph data
+
+	Web:
+		ASP.NET (Part of the web portion of .net)
+			MVC
+			WebAPI
+			Razer
+		SignalR
+		WCF
